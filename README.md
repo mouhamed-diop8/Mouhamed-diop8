@@ -8,19 +8,12 @@
 
 ## 🧰 Compétences Techniques
 
--**📊 Data Science & Analyse de données**: Statistiques descriptives et inférentielles, Analyse exploratoire des données (EDA), Nettoyage et préparation des données, Feature engineering
-- **Langages** :Python : NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch, SQL, R, Bash/Shell, Git/GitHub
-- **🧠Machine Learning / IA**: Apprentissage supervisé : régression, classification,Apprentissage non supervisé : clustering, réduction de dimension, Deep Learning : CNN, RNN, Transformers, NLP : traitement du langage naturel, word embeddings, BERT, MLOps : CI/CD pour modèles ML, déploiement avec Docker/Streamlit/Flask
-- **📈 Business Intelligence**
-Power BI / Tableau : création de dashboards
-Alteryx : automatisation de flux de données
-Excel avancé : tableaux croisés dynamiques, formules, VBA
-
-**🛠️ Développement et Outils**:
-API REST (création et consommation)
-Développement web : Flask, FastAPI, HTML/CSS (si besoin)
-Outils de gestion de projets : Jira, Trello, Notion
-Visual Studio Code, Jupyter Notebook, Anaconda
+**📊 Data Science & Analyse de données**: Statistiques descriptives et inférentielles, Analyse exploratoire des données (EDA), Nettoyage et préparation des données, Feature engineering
+**Langages**: Python : NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch, SQL, R, Bash/Shell, Git/GitHub
+**🧠Machine Learning / IA**: Apprentissage supervisé, Apprentissage non supervisé, Deep Learning, NLP, MLOps
+**📈 Business Intelligence**: Power BI / Tableau, Alteryx, Excel avancé
+**🛠️ Développement et Outils** : API REST (création et consommation), Développement web (Flask, FastAPI, HTML/CSS)
+Outils de gestion de projets : Jira, Trello, Notion ,Visual Studio Code, Jupyter Notebook, Anaconda
 
 **🤝Soft Skills**:
 Analyse et synthèse
