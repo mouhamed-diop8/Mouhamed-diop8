@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Mouhamed
+# 👋 Salut, moi c’est Mouhamed DIOP
 
 🎓 Étudiant en 3ᵉ année à l’ESIEE Paris  
 💼 À la recherche d’une alternance en Data/IA à partir de septembre 2025  
