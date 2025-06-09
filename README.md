@@ -50,7 +50,7 @@ Esprit d’analyse, résolution de problèmes et curiosité technologique
 | 🎮 **Labyrinthe** | Jeu C++ avec IA, pièges et trésor | C++, IA aléatoire | [Voir](https://github.com/...) |
 | 📊 **Dashboard RH** | Visualisation RH avec filtres | Power BI | [Voir](https://github.com/...) |
 | 🔍 **Détection d’anomalies** | Machine learning sur des données de capteurs | Python, sklearn | [Voir](https://github.com/...) |
-| 🌍 **Traduction IA** | Traduction automatique avec NLP | Python, HuggingFace | [Voir](https://github.com/...) |
+| 🌍 **Customer churn** | Prediction du churn client| Python, HuggingFace | [Voir](https://github.com/...) |
 
 ---
 
