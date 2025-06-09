@@ -8,11 +8,11 @@
 
 ## 🧰 Compétences Techniques
 
-**📊 Data Science & Analyse de données**: Statistiques descriptives et inférentielles, Analyse exploratoire des données (EDA), Nettoyage et préparation des données, Feature engineering
-**Langages**: Python : NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch, SQL, R, Bash/Shell, Git/GitHub
-**🧠Machine Learning / IA**: Apprentissage supervisé, Apprentissage non supervisé, Deep Learning, NLP, MLOps
-**📈 Business Intelligence**: Power BI / Tableau, Alteryx, Excel avancé
-**🛠️ Développement et Outils** : API REST (création et consommation), Développement web (Flask, FastAPI, HTML/CSS)
+-**📊 Data Science & Analyse de données**: Statistiques descriptives et inférentielles, Analyse exploratoire des données (EDA), Nettoyage et préparation des données, Feature engineering
+-**Langages**: Python : NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch, SQL, R, Bash/Shell, Git/GitHub
+-**🧠Machine Learning / IA**: Apprentissage supervisé, Apprentissage non supervisé, Deep Learning, NLP, MLOps
+-**📈 Business Intelligence**: Power BI / Tableau, Alteryx, Excel avancé
+-**🛠️ Développement et Outils** : API REST (création et consommation), Développement web (Flask, FastAPI, HTML/CSS)
 Outils de gestion de projets : Jira, Trello, Notion ,Visual Studio Code, Jupyter Notebook, Anaconda
 
 **🤝Soft Skills**:
