@@ -56,17 +56,6 @@ Esprit d’analyse, résolution de problèmes et curiosité technologique
 
 ## 📜 Certifications
 
-- [Google Data Analytics - Coursera](https://www...)  
-- [Power BI - Microsoft Learn](https://www...)  
-- [Machine Learning - Andrew Ng, Stanford](https://www...)  
-
----
-
-## 📎 Liens utiles
-
-- [📄 CV PDF](https://...)  
-- [💼 LinkedIn](https://linkedin.com/in/tonprofil)  
-- [🌐 Portfolio GitHub Pages](https://mouhamed.github.io) *(si activé)*
 
 ---
 
