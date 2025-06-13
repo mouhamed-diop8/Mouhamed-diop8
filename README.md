@@ -55,7 +55,9 @@ Esprit d’analyse, résolution de problèmes et curiosité technologique
 ---
 
 ## 📜 Certifications
-
+**Python for Data**:
+**Big Data, les Fondements du big data**:
+**Introduction à SQL** :
 
 ---
 
