@@ -64,7 +64,7 @@ Esprit d’analyse, résolution de problèmes et curiosité technologique
 | 🎮 **Python for Datascience** | Jeu C++ avec IA, pièges et trésor | C++, IA aléatoire | [Voir]( |
 | 📊 **Microsoft Power BI** | Détermination de l'espérance de vie |[Voir](https://github.com/mouhamed-diop8/Projet-1-Life-expectancy) |                      |
 | 🔍 **Introduction à SQL** | Machine learning sur des données de capteurs | Python, sklearn | [Voir](https://github.com/...) |
-| 🌍 **Les fondements du Big Data** | Prediction du churn client| Python, HuggingFace | [Voir](https://github.com/...) |
+| 🌍 **Les fondements du Big Data** | Prediction du churn client| Python, HuggingFace | [Voir](https://github.com/mouhamed-diop8/Certifications/blob/main/CertificateOfCompletion_Les%20fondements%20du%20big%20data-2.pdf) |
 
 
 
