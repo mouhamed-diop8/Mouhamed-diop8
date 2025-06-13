@@ -61,7 +61,7 @@ Esprit d’analyse, résolution de problèmes et curiosité technologique
 
 | certifications|    Description     | Lien |
 |--------|--------------------|--------------|
-| 🎮 **Python for Datascience** | Jeu C++ avec IA, pièges et trésor | | [Voir]( |
+| 🎮 **Python for Datascience** | Jeu C++ avec IA, pièges et trésor | [Voir](https://github.com/mouhamed-diop8/Certifications/blob/main/CertificateOfCompletion_Python%20pour%20la%20data%20science-2.pdf)|
 | 📊 **Microsoft Power BI** | Détermination de l'espérance de vie |[Voir](https://github.com/mouhamed-diop8/Projet-1-Life-expectancy) |                      |
 | 🔍 **Introduction à SQL** | Machine learning sur des données de capteurs | Python, sklearn | [Voir](https://github.com/...) |
 | 🌍 **Les fondements du Big Data** | Prediction du churn client| [Voir](https://github.com/mouhamed-diop8/Certifications/blob/main/CertificateOfCompletion_Les%20fondements%20du%20big%20data-2.pdf) |
