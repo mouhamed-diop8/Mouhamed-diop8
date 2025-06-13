@@ -48,7 +48,7 @@ Esprit d’analyse, résolution de problèmes et curiosité technologique
 | Projet | Description | Lien |
 |--------|-------------|--------------|
 | 🎮 **Labyrinthe** | Jeu C++ avec IA, pièges et trésor | C++, IA aléatoire | [Voir]( |
-| 📊 **Life Expectancy** |Détermination de l'espérance de vie | Power BI | [Voir](https://github.com/mouhamed-diop8/Projet-1-Life-expectancy) |                      |
+| 📊 **Life Expectancy** | Détermination de l'espérance de vie |[Voir](https://github.com/mouhamed-diop8/Projet-1-Life-expectancy) |                      |
 | 🔍 **Détection d’anomalies** | Machine learning sur des données de capteurs | Python, sklearn | [Voir](https://github.com/...) |
 | 🌍 **Customer churn** | Prediction du churn client| Python, HuggingFace | [Voir](https://github.com/...) |
 
