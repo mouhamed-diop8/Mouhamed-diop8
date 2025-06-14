@@ -51,6 +51,8 @@ Esprit d’analyse, résolution de problèmes et curiosité technologique
 | 📊 **Life Expectancy** | Détermination de l'espérance de vie |[Voir](https://github.com/mouhamed-diop8/Projet-1-Life-expectancy) |                      |
 | 🔍 **the preprocessing steps** | Les étapes de prétraitement d'un projet Data |[Voir](https://github.com/mouhamed-diop8/Projet-2-the-preprocessing-steps) |
 | 🌍 **Customer churn** | Prediction du churn client| [Voir](https://github.com/mouhamed-diop8/Projet-4-Customer-churn) |
+| 🌍 **Wine Price Prediction Using Linear Regression** |prédire le prix d’un vin à partir de différentes caractéristiques telles que la qualité, le taux d’alcool, l’acidité et d’autres propriétés physico-chimiques| [Voir](https://github.com/mouhamed-diop8/Projet-4-Customer-churn) |
+
 
 ---
 
