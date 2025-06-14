@@ -1,8 +1,8 @@
 # 👋 Salut, moi c’est Mouhamed DIOP  
 
 🎓 Étudiant en 3ᵉ année à l’ESIEE Paris  
-💼 À la recherche d’une alternance en Data/IA à partir de septembre 2025  
-🧠 Passionné par la data science, l’intelligence artificielle et le développement logiciel
+ À la recherche d’une alternance en Data/IA à partir de septembre 2025  
+ Passionné par la data science, l’intelligence artificielle et le développement logiciel
 
 ---
 
