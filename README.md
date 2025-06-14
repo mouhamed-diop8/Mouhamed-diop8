@@ -47,11 +47,11 @@ Esprit d’analyse, résolution de problèmes et curiosité technologique
 
 | Projet | Description | Lien |
 |--------|-------------|--------------|
-| 🧠 **car price prediction** | prédiction du prix d'une voiture | [Voir](https://github.com/mouhamed-diop8/Projet-3-car-price-prediction) |
-| 📊 **Life Expectancy** | Détermination de l'espérance de vie |[Voir](https://github.com/mouhamed-diop8/Projet-1-Life-expectancy) |                      |
-| 🔍 **the preprocessing steps** | Les étapes de prétraitement d'un projet Data |[Voir](https://github.com/mouhamed-diop8/Projet-2-the-preprocessing-steps) |
-| 🌍 **Customer churn** | Prediction du churn client| [Voir](https://github.com/mouhamed-diop8/Projet-4-Customer-churn) |
-| 🌍 **Wine Price Prediction Using Linear Regression** |prédire le prix d’un vin à partir de différentes caractéristiques telles que la qualité, le taux d’alcool, l’acidité et d’autres propriétés physico-chimiques| [Voir](https://github.com/mouhamed-diop8/Projet-4-Customer-churn) |
+| 🧠 **car price prediction** | estimation du prix d’une voiture en fonction de ses caractéristiques (année, kilométrage, puissance, etc.). | [Voir](https://github.com/mouhamed-diop8/Projet-3-car-price-prediction) |
+| 📊 **Life Expectancy** | Analyse statistique et modélisation pour prédire l'espérance de vie|[Voir](https://github.com/mouhamed-diop8/Projet-1-Life-expectancy) |                      
+| 🔍 **the preprocessing steps** | Présentation structurée des principales étapes de prétraitement dans un projet Data : nettoyage, transformation, encodage, normalisation. |[Voir](https://github.com/mouhamed-diop8/Projet-2-the-preprocessing-steps) |
+| 📉 **Customer churn** | Détection des clients à risque de résiliation grâce à un modèle prédictif basé sur leur comportement et historique d’usage.| [Voir](https://github.com/mouhamed-diop8/Projet-4-Customer-churn) |
+| 🍷 **Wine Price Prediction Using Linear Regression** |prédire le prix d’un vin à partir de différentes caractéristiques telles que la qualité, le taux d’alcool, l’acidité et d’autres propriétés physico-chimiques| [Voir](https://github.com/mouhamed-diop8/Projet-4-Customer-churn) |
 
 
 ---
