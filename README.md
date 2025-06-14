@@ -1,4 +1,7 @@
 # 👋 Salut, moi c’est Mouhamed DIOP  
+Je suis étudiant en **3ᵉ année d’école d’ingénieur** spécialisé en **Data Science & Intelligence Artificielle**. Passionné par l’analyse de données, le machine learning et la création de solutions intelligentes.
+
+---
 
 💻 Actuellement en formation d’ingénieur en Data & IA
 📊 Passionné par la modélisation, le traitement des données et l’optimisation d’algorithmes
