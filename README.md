@@ -50,7 +50,7 @@ Esprit d’analyse, résolution de problèmes et curiosité technologique
 | 🧠 **Labyrinthe** | Jeu C++ avec IA, pièges et trésor | C++, IA aléatoire | [Voir]( |
 | 📊 **Life Expectancy** | Détermination de l'espérance de vie |[Voir](https://github.com/mouhamed-diop8/Projet-1-Life-expectancy) |                      |
 | 🔍 **the preprocessing steps** | Les étapes de prétraitement d'un projet Data |[Voir](https://github.com/mouhamed-diop8/Projet-2-the-preprocessing-steps) |
-| 🌍 **Customer churn** | Prediction du churn client| Python, HuggingFace | [Voir](https://github.com/...) |
+| 🌍 **Customer churn** | Prediction du churn client| [Voir](https://github.com/...) |
 
 ---
 
