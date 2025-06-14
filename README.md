@@ -48,7 +48,7 @@ Esprit d’analyse, résolution de problèmes et curiosité technologique
 | Projet | Description | Lien |
 |--------|-------------|--------------|
 
-| 📊 **Life Expectancy Estimation** | Analyse statistique et modélisation pour estimer l'espérance de vie|[Voir](https://github.com/mouhamed-diop8/Projet-1-Life-Expectancy-Estimation) |  
+| 📊 **Life Expectancy Estimation** | Analyse statistique et modélisation pour estimer l'espérance de vie|[Voir](https://github.com/mouhamed-diop8/Projet-1-Life-Expectancy-Estimation) |  |
 | 🔍 **the preprocessing steps** | Présentation structurée des principales étapes de prétraitement dans un projet Data : nettoyage, transformation, encodage, normalisation. |[Voir](https://github.com/mouhamed-diop8/Projet-2-the-preprocessing-steps) |
 | 🧠 **car price prediction** | Estimation du prix d’une voiture en fonction de ses caractéristiques (année, kilométrage, puissance, etc.). | [Voir](https://github.com/mouhamed-diop8/Projet-3-car-price-prediction) |
 
