@@ -44,7 +44,7 @@ Passionné par l’analyse de données, le machine learning et la création de s
 | 🧠 **car price prediction** | Estimation du prix d’une voiture en fonction de ses caractéristiques (année, kilométrage, puissance, etc.). | [Voir](https://github.com/mouhamed-diop8/Projet-3-car-price-prediction) |
 | 📉 **Customer churn** | Détection des clients à risque de résiliation grâce à un modèle prédictif basé sur leur comportement et historique d’usage.| [Voir](https://github.com/mouhamed-diop8/Projet-4-Customer-churn) |
 | 🍷 **Wine Price Prediction Using Linear Regression** |Prédire le prix d’un vin à partir de différentes caractéristiques telles que la qualité, le taux d’alcool, l’acidité et d’autres propriétés physico-chimiques| [Voir](https://github.com/mouhamed-diop8/Projet-5-Wine-Price-Prediction-Using-Linear-Regression) |
-| 📉 **Image Classifier CNN** | Développement d’un modèle de réseau de neurones convolutif (CNN) capable de classer des images en différentes catégories| [Voir](https://github.com/mouhamed-diop8/Projet-6-Image-Classifier-CNN-) |
+| 🔹 **Image Classifier CNN** | Développement d’un modèle de réseau de neurones convolutif (CNN) capable de classer des images en différentes catégories| [Voir](https://github.com/mouhamed-diop8/Projet-6-Image-Classifier-CNN-) |
 
 
 
