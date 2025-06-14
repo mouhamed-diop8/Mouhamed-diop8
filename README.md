@@ -16,6 +16,20 @@ Passionné par l’analyse de données, le machine learning et la création de s
 
 ---
 
+
+## 🚀 Compétences
+
+| Domaine               | Technologies & Outils                   |
+|-----------------------|---------------------------------------|
+| Langages              | Python, SQL, C++, R                    |
+| Data & IA             | Machine Learning, Deep Learning, NLP, Computer Vision |
+| Data Engineering      | Pandas, NumPy, Spark, ETL              |
+| Visualisation         | Matplotlib, Seaborn, Power BI, Tableau |
+| Bases de données      | MySQL, PostgreSQL, MongoDB              |
+| Cloud & DevOps        | Git, Docker, Azure, AWS (bases)         |
+
+---
+
 ---
 
 📌 Compétences
