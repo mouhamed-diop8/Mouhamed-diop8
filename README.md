@@ -4,11 +4,17 @@ Passionné par l’analyse de données, le machine learning et la création de s
 
 ---
 
-💻 Actuellement en formation d’ingénieur en Data & IA
-📊 Passionné par la modélisation, le traitement des données et l’optimisation d’algorithmes
-🤖 J’adore créer des projets autour de l’intelligence artificielle et des systèmes prédictifs
-🌍 Toujours curieux d’apprendre de nouvelles technologies et outils
-🚀 Je cherche à mettre mes compétences en pratique via des projets concrets et des expériences professionnelles (alternance, stages)
+## 🎯 À propos de moi
+
+🎯 **Je suis activement à la recherche d’une alternance à partir de septembre 2025**, dans le domaine de la **Data / IA / Business Intelligence**, pour une durée de 12 à 24 mois.
+
+- 💻 Actuellement en formation d’ingénieur en Data & IA  
+- 📊 Passionné par la modélisation, le traitement des données et l’optimisation d’algorithmes  
+- 🤖 J’adore développer des projets autour de l’intelligence artificielle et des systèmes prédictifs  
+- 🌍 Curieux d’apprendre constamment de nouvelles technologies et outils  
+- 🚀 Je cherche à mettre mes compétences en pratique à travers des projets concrets et des expériences professionnelles  
+
+---
 
 ---
 
