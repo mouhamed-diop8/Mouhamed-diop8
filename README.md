@@ -71,4 +71,6 @@ Esprit d’analyse, résolution de problèmes et curiosité technologique
 
 
 
+
+
 *Merci pour votre visite ! N'hésitez pas à me contacter pour collaborer ou discuter d’une alternance.*
