@@ -50,7 +50,7 @@ Esprit d’analyse, résolution de problèmes et curiosité technologique
 | 🧠 **car price prediction** | prédiction du prix d'une voiture | [Voir](https://github.com/mouhamed-diop8/Projet-3-car-price-prediction) |
 | 📊 **Life Expectancy** | Détermination de l'espérance de vie |[Voir](https://github.com/mouhamed-diop8/Projet-1-Life-expectancy) |                      |
 | 🔍 **the preprocessing steps** | Les étapes de prétraitement d'un projet Data |[Voir](https://github.com/mouhamed-diop8/Projet-2-the-preprocessing-steps) |
-| 🌍 **Customer churn** | Prediction du churn client| [Voir](https://github.com/...) |
+| 🌍 **Customer churn** | Prediction du churn client| [Voir](https://github.com/mouhamed-diop8/Projet-4-Customer-churn) |
 
 ---
 
