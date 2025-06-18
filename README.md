@@ -51,6 +51,8 @@ Passionné par l’analyse de données, le machine learning et la création de s
 | 🔹 **Image Classifier CNN** | Développement d’un modèle de réseau de neurones convolutif (CNN) capable de classer des images en différentes catégories| [Voir](https://github.com/mouhamed-diop8/Projet-6-Image-Classifier-CNN-) |
 | **🌍 Climate Change Use Case – by N&S** | Analyse de données climatiques mondiales pour visualiser l’évolution du changement climatique .| [Voir](https://github.com/mouhamed-diop8/Projet-7-climate-change-use-case-by-n-s) |
 | **🚗 Trafic Routier en France – Analyse de données** | Étude des flux de circulation en France selon les régions, les périodes et les types de véhicules.| [Voir](https://github.com/mouhamed-diop8/Projet-8-Trafic-Routier-en-France-Analyse-de-donn-es) |
+| **🏟️ Analyse des Équipements Sportifs à Paris** | Projet SQL basé sur des données open data pour explorer les infrastructures sportives parisiennes : équipements, disciplines, associations et accessibilité. Inclut modélisation de base de données et requêtes analytiques.| [Voir](https://github.com/mouhamed-diop8/Projet-8-Trafic-Routier-en-France-Analyse-de-donn-es) |
+
 
 
 
