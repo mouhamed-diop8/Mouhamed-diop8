@@ -27,6 +27,10 @@ Passionné par l’analyse de données, le machine learning et la création de s
 | Visualisation         | Matplotlib, Seaborn, Power BI, Tableau |
 | Bases de données      | MySQL, PostgreSQL, MongoDB              |
 | Cloud & DevOps        | Git, Docker, Azure, AWS (bases)         |
+| Web analyse           | Google Analytics, Piano Analytics, GTM, Tag Commander|
+
+
+
 
 ---
 
