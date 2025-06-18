@@ -49,6 +49,13 @@ Passionné par l’analyse de données, le machine learning et la création de s
 | 📉 **Customer churn** | Détection des clients à risque de résiliation grâce à un modèle prédictif basé sur leur comportement et historique d’usage.| [Voir](https://github.com/mouhamed-diop8/Projet-4-Customer-churn) |
 | 🍷 **Wine Price Prediction Using Linear Regression** |Prédire le prix d’un vin à partir de différentes caractéristiques telles que la qualité, le taux d’alcool, l’acidité et d’autres propriétés physico-chimiques| [Voir](https://github.com/mouhamed-diop8/Projet-5-Wine-Price-Prediction-Using-Linear-Regression) |
 | 🔹 **Image Classifier CNN** | Développement d’un modèle de réseau de neurones convolutif (CNN) capable de classer des images en différentes catégories| [Voir](https://github.com/mouhamed-diop8/Projet-6-Image-Classifier-CNN-) |
+| **🌍 Climate Change Use Case – by N&S** | Analyse de données climatiques mondiales pour visualiser l’évolution du changement climatique .| [Voir](https://github.com/mouhamed-diop8/Projet-7-climate-change-use-case-by-n-s) |
+| **🚗 Trafic Routier en France – Analyse de données** | Étude des flux de circulation en France selon les régions, les périodes et les types de véhicules.| [Voir](https://github.com/mouhamed-diop8/Projet-8-Trafic-Routier-en-France-Analyse-de-donn-es) |
+
+
+
+
+
 
 
 
