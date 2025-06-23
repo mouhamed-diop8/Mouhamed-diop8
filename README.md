@@ -45,13 +45,13 @@ Passionné par l’analyse de données, le machine learning et la création de s
 |--------|-------------|--------------|
 | 🔍 **the preprocessing steps** | Présentation structurée des principales étapes de prétraitement dans un projet Data : nettoyage, transformation, encodage, normalisation.|[Voir](https://github.com/mouhamed-diop8/Projet-2-the-preprocessing-steps) |
 | 🧠 **car price prediction** | Estimation du prix d’une voiture en fonction de ses caractéristiques (année, kilométrage, puissance, etc.). | [Voir](https://github.com/mouhamed-diop8/Projet-3-car-price-prediction) |
-| 📊 **Life Expectancy Estimation** | Analyse statistique et modélisation pour estimer l'espérance de vie| [Voir](https://github.com/mouhamed-diop8/Projet-1-Life-Expectancy-Estimation)| 
 | 📉 **Customer churn** | Détection des clients à risque de résiliation grâce à un modèle prédictif basé sur leur comportement et historique d’usage.| [Voir](https://github.com/mouhamed-diop8/Projet-4-Customer-churn) |
 | 🍷 **Wine Price Prediction Using Linear Regression** |Prédire le prix d’un vin à partir de différentes caractéristiques telles que la qualité, le taux d’alcool, l’acidité et d’autres propriétés physico-chimiques| [Voir](https://github.com/mouhamed-diop8/Projet-5-Wine-Price-Prediction-Using-Linear-Regression) |
 | 🔹 **Image Classifier CNN** | Développement d’un modèle de réseau de neurones convolutif (CNN) capable de classer des images en différentes catégories| [Voir](https://github.com/mouhamed-diop8/Projet-6-Image-Classifier-CNN-) |
 | **🌍 Climate Change Use Case – by N&S** | Analyse de données climatiques mondiales pour visualiser l’évolution du changement climatique .| [Voir](https://github.com/mouhamed-diop8/Projet-7-climate-change-use-case-by-n-s) |
 | **🚗 Trafic Routier en France – Analyse de données** | Étude des flux de circulation en France selon les régions, les périodes et les types de véhicules.| [Voir](https://github.com/mouhamed-diop8/Projet-8-Trafic-Routier-en-France-Analyse-de-donn-es) |
 | **🏟️ Analyse des Équipements Sportifs à Paris** | Projet SQL basé sur des données open data pour explorer les infrastructures sportives parisiennes . Inclut modélisation de base de données et requêtes analytiques.| [Voir](https://github.com/mouhamed-diop8/Projet-10-Analyse-des-quipements-Sportifs-Paris) |
+| 📊 **Life Expectancy Estimation** | Analyse statistique et modélisation pour estimer l'espérance de vie| [Voir](https://github.com/mouhamed-diop8/Projet-1-Life-Expectancy-Estimation)| 
 
 
 
