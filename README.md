@@ -1,11 +1,11 @@
 # 👋 Salut, moi c’est Mouhamed DIOP  
-Je suis étudiant en **4ᵉ année d’école d’ingénieur à ESIEE PARIS** spécialisé en **Data Science & Intelligence Artificielle**.
+Je suis étudiant en **5ᵉ année d’école d’ingénieur à ESIEE PARIS** spécialisé en **Data Science & Intelligence Artificielle**.
 
 ---
 
 ## 🎯 À propos de moi
 
-🎯 **Je suis alternant- à Renault Group en tant que data Analyst en marketing**, pour une durée de 24 mois.
+🎯 **Je suis alternant- à Renault Group en tant que data Analyst en marketing**.
 
 - 💻 Actuellement en formation d’ingénieur en Data & IA  
 - 📊 Passionné par la modélisation, le traitement des données et l’optimisation d’algorithmes  
