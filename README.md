@@ -15,9 +15,6 @@
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-C5A46D?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Python-243B53?style=flat-square&logo=python&logoColor=white"/>
-</a>
 
 </div>
 
